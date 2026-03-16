@@ -1,8 +1,8 @@
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| Notebook 0 | Supervised Learning |
+| Notebook | Topic | Colab |
+|----------|-------|-------|
+| Notebook 1 | Linear Regression | [Open in Colab](https://colab.research.google.com/drive/1UK8rMGzpagspFNIVZ_zWJD1ScR7TrpOC?usp=sharing) |
 
 ---
 
